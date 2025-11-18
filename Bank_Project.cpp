@@ -86,7 +86,7 @@ int main() {
     string name;
     int accountNum;
     double initialBalance;
-
+    cout << "initializing bank account...\n";
     cout << "Enter Account Name: ";
     getline(cin, name);
 
